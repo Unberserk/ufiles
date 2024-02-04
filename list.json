@@ -1,0 +1,210 @@
+[ 
+  {
+    "gameroot": "1v1lol/",
+    "game": "1v1lol"
+  },
+  {
+    "gameroot": "2048/",
+    "game": "2048"
+  },
+  {
+    "gameroot": "BasketRandom/",
+    "game": "Basket Random"
+  },
+  {
+    "gameroot": "BasketStars/",
+    "game": "Basket Stars"
+  },
+  {
+    "gameroot": "BloonsTD5/",
+    "game": "Bloons TD5"
+  },
+  {
+    "gameroot": "CookieClicker/",
+    "game": "Cookie Clicker"
+  },
+  {
+    "gameroot": "DarkSword/",
+    "game": "Dark Sword"
+  },
+  {
+    "gameroot": "Dodge/",
+    "game": "Dodge"
+  },
+  {
+    "gameroot": "DoodleJump/",
+    "game": "Doodle Jump"
+  },
+  {
+    "gameroot": "DriveMad/",
+    "game": "Drive Mad"
+  },
+  {
+    "gameroot": "FridayNightFunkin/",
+    "game": "Friday Night Funkin"
+  },
+  {
+    "gameroot": "HappyWheels/",
+    "game": "Happy Wheels"
+  },
+  {
+    "gameroot": "IdleBreakout/",
+    "game": "Idle Breakout"
+  },
+  {
+    "gameroot": "LearnToFly/",
+    "game": "Learn To Fly"
+  },
+  {
+    "gameroot": "LearnToFly2/",
+    "game": "Learn To Fly 2"
+  },
+  {
+    "gameroot": "Minecraft15/",
+    "game": "Minecraft 1.5"
+  },
+  {
+    "gameroot": "Minecraft18/",
+    "game": "Minecraft 1.8"
+  },
+  {
+    "gameroot": "MotoX3M/",
+    "game": "Moto X3M"
+  },
+  {
+    "gameroot": "MotoX3MPoolParty/",
+    "game": "Moto X3M Pool Party"
+  },
+  {
+    "gameroot": "MotoX3MSpooky/",
+    "game": "Moto X3M Spooky"
+  },
+  {
+    "gameroot": "MotoX3MWinter/",
+    "game": "Moto X3M Winter"
+  },
+  {
+    "gameroot": "NewSuperMarioBros/",
+    "game": "New Super Mario Bros"
+  },
+  {
+    "gameroot": "NutSimulator/",
+    "game": "Nut Simulator"
+  },
+  {
+    "gameroot": "PapaLouie/",
+    "game": "Papa Louie"
+  },
+  {
+    "gameroot": "PapaLouie2/",
+    "game": "Papa Louie 2"
+  },
+  {
+    "gameroot": "PapaLouie3/",
+    "game": "Papa Louie 3"
+  },
+  {
+    "gameroot": "PapasBakeria/",
+    "game": "Papas Bakeria"
+  },
+  {
+    "gameroot": "PapasBurgeria/",
+    "game": "Papas Burgeria"
+  },
+  {
+    "gameroot": "Papas Cheeseria/",
+    "game": "Papas Cheeseria"
+  },
+  {
+    "gameroot": "Papas Cupcakeria/",
+    "game": "Papas Cupcakeria"
+  },
+  {
+    "gameroot": "Papas Donuteria/",
+    "game": "Papas Donuteria"
+  },
+  {
+    "gameroot": "PapasFreezeria/",
+    "game": "Papas Freezeria"
+  },
+  {
+    "gameroot": "PapasHotDoggeria/",
+    "game": "Papas Hot Doggeria"
+  },
+  {
+    "gameroot": "PapasPancakeria/",
+    "game": "Papas Pancakeria"
+  },
+  {
+    "gameroot": "PapasPastaria/",
+    "game": "Papas Pastaria"
+  },
+  {
+    "gameroot": "PapasPizzera/",
+    "game": "Papas Pizzera"
+  },
+  {
+    "gameroot": "PapasScooperia/",
+    "game": "Papas Scooperia"
+  },
+  {
+    "gameroot": "PapasSushiria/",
+    "game": "Papas Sushiria"
+  },
+  {
+    "gameroot": "PapasTacomia/",
+    "game": "Papas Tacomia"
+  },
+  {
+    "gameroot": "PapasWingeria/",
+    "game": "Papas Wingeria"
+  },
+  {
+    "gameroot": "PicoWorldRace/",
+    "game": "Pico World Race"
+  },
+  {
+    "gameroot": "RetroBowl/",
+    "game": "Retro Bowl"
+  },
+  {
+    "gameroot": "RooftopSnipers/",
+    "game": "Rooftop Snipers"
+  },
+  {
+    "gameroot": "Slope/",
+    "game": "Slope"
+  },
+  {
+    "gameroot": "StickmanHook/",
+    "game": "Stickman Hook"
+  },
+  {
+    "gameroot": "SubwaySurfers/",
+    "game": "Subway Surfers"
+  },
+  {
+    "gameroot": "Tetris/",
+    "game": "Tetris"
+  },
+  {
+    "gameroot": "TheImpossibleQuiz/",
+    "game": "The Impossible Quiz"
+  },
+  {
+    "gameroot": "TinyFishing/",
+    "game": "Tiny Fishing"
+  },
+  {
+    "gameroot": "TossTheTurtle/",
+    "game": "Toss The Turtle"
+  },
+  {
+    "gameroot": "VexV6/",
+    "game": "Vex V6"
+  },
+  {
+    "gameroot": "VexV7/",
+    "game": "Vex V7"
+  }
+]
