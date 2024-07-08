@@ -1,66 +1,6 @@
 [ 
   
 {
-  "gameroot": "RammerHead1/",
-  "game": "RammerHead 1"
-},  
-{
-  "gameroot": "RammerHead2/",
-  "game": "RammerHead 2"
-},  
-{
-  "gameroot": "RammerHead3/",
-  "game": "RammerHead 3"
-}, 
-{
-  "gameroot": "RammerHead4/",
-  "game": "RammerHead 4"
-}, 
-{
-  "gameroot": "RammerHead5/",
-  "game": "RammerHead 5"
-},  
-{
-  "gameroot": "RammerHead6/",
-  "game": "RammerHead 6"
-}, 
-{
-  "gameroot": "RammerHead7/",
-  "game": "RammerHead 7"
-},  
-{
-  "gameroot": "RammerHead8/",
-  "game": "RammerHead 8"
-},  
-{
-  "gameroot": "RammerHead9/",
-  "game": "RammerHead 9"
-},  
-{
-  "gameroot": "RammerHead10/",
-  "game": "RammerHead 10"
-},
-{
-  "gameroot": "RammerHead11/",
-  "game": "RammerHead 11"
-},  
-{
-  "gameroot": "RammerHead12/",
-  "game": "RammerHead 12"
-},
-{
-  "gameroot": "RammerHead13/",
-  "game": "RammerHead 13"
-},  
-{
-  "gameroot": "RammerHead14/",
-  "game": "RammerHead 14"
-},
-{
-  "gameroot": "RammerHead15/",
-  "game": "RammerHead 15"
-},  
-{
   "gameroot": "Movies/",
   "game": "Movies"
 },
