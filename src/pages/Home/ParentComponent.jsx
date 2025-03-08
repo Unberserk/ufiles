@@ -167,7 +167,7 @@ const AppContent = ({
             onClick={() => handleNavigation('movies')}
             className={`flex items-center justify-center gap-2 w-full px-4 py-3 text-white rounded-xl font-medium text-sm sm:text-base transition-all duration-300 transform hover:scale-105 hover:-translate-y-1 hover:shadow-xl ${
               activePage === 'movies'
-                ? 'bg-orange-600 shadow-orange-500/30'
+                ? 'bg-blue-600 shadow-blue-500/30'
                 : 'bg-gray-800/80 hover:bg-gray-700 backdrop-blur-sm'
             }`}
           >
@@ -178,7 +178,7 @@ const AppContent = ({
             onClick={() => handleNavigation('series')}
             className={`flex items-center justify-center gap-2 w-full px-4 py-3 text-white rounded-xl font-medium text-sm sm:text-base transition-all duration-300 transform hover:scale-105 hover:-translate-y-1 hover:shadow-xl ${
               activePage === 'series'
-                ? 'bg-orange-600 shadow-orange-500/30'
+                ? 'bg-blue-600 shadow-blue-500/30'
                 : 'bg-gray-800/80 hover:bg-gray-700 backdrop-blur-sm'
             }`}
           >
