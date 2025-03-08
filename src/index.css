@@ -65,7 +65,7 @@ body {
 }
 
 .genre-item:focus {
-  outline: 2px solid #6bff81; /* Customize focus outline to match the color scheme */
+  outline: 2px solid #986bff; /* Customize focus outline to match the color scheme */
   caret-color: transparent; /* Ensures caret stays hidden on focus */
 }
 @keyframes fadeIn {
