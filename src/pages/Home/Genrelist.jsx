@@ -62,7 +62,7 @@ function GenreList({ type, onGenreSelect }) {
 
   if (error) {
     return (
-      <div className="sticky top-0 z-50 bg-red-100 border-l-4 border-red-500 text-red-700 p-2">
+      <div className="sticky top-0 z-50 bg-blue-100 border-l-4 border-blue-500 text-blue-700 p-2">
         <p className="text-xs sm:text-sm">{error.message}</p>
       </div>
     );
@@ -105,7 +105,7 @@ function GenreList({ type, onGenreSelect }) {
                 cursor-pointer select-none whitespace-nowrap
                 ${
                   activeIndex === index
-                    ? 'bg-black text-white shadow-lg ring-2 ring-red-400'
+                    ? 'bg-black text-white shadow-lg ring-2 ring-blue-400'
                     : 'bg-slate-800/50 text-slate-300 hover:bg-purple-600/50 hover:text-white'
                 }
               `}
