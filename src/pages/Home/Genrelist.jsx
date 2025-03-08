@@ -55,7 +55,7 @@ function GenreList({ type, onGenreSelect }) {
   if (loading) {
     return (
       <div className="sticky top-0 z-50 h-10 sm:h-12  backdrop-blur-sm flex items-center justify-center">
-        <div className="animate-spin h-4 w-4 sm:h-5 sm:w-5 border-2 border-purple-500 rounded-full border-t-transparent" />
+        <div className="animate-spin h-4 w-4 sm:h-5 sm:w-5 border-2 border-blue-500 rounded-full border-t-transparent" />
       </div>
     );
   }
@@ -106,7 +106,7 @@ function GenreList({ type, onGenreSelect }) {
                 ${
                   activeIndex === index
                     ? 'bg-black text-white shadow-lg ring-2 ring-blue-400'
-                    : 'bg-slate-800/50 text-slate-300 hover:bg-purple-600/50 hover:text-white'
+                    : 'bg-slate-800/50 text-slate-300 hover:bg-blue-600/50 hover:text-white'
                 }
               `}
               role="button"
